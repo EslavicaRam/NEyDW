@@ -1,0 +1,17 @@
+------*Link a vídeo de la presentación-------: 
+https://drive.google.com/drive/folders/1LXc5aCVq8i7EiUiN6dddsykG_HP58mDv?usp=sharing
+
+------*Link del cuestionario------*:
+https://forms.gle/tjcSWb8Fdx9izFxB6
+
+------*Cursos gratuitos de PHP*------:
+  *Building Web Applications in PHP - University of Michigan (Coursera - GRATIS):
+   	https://es.coursera.org/learn/web-applications-php
+  *Building a Dynamic Web App using PHP & MySQL - Coursera Project Network (GRATIS):
+  	https://es.coursera.org/projects/dynamic-web-app-php-mysql
+  *Aprende PHP y MySQLi, conceptos básicos para principiantes. - Udemy (GRATIS):
+  	https://www.udemy.com/course/php-para-principiantes/
+  *Programador web: Cookies y Sesiones en PHP - Udemy (GRATIS):
+  	https://www.udemy.com/course/programador-web-php-cookies-y-sesiones/
+  *Curso de PHP - Edutin Academy (GRATIS):
+  	https://edutin.com/curso-de-php-4281
